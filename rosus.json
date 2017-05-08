@@ -1,0 +1,11 @@
+{
+  "homepage": "https://github.com/Guard13007/ROSUS",
+  "version": "2.0.0",
+  "url": "https://github.com/Guard13007/ROSUS/releases/download/v2.0.0/rosus.zip",
+  "bin": [
+    "deubify.exe",
+    "google.exe",
+    "how.exe",
+    "ubify.exe"
+  ]
+}
