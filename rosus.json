@@ -2,6 +2,7 @@
   "homepage": "https://github.com/Guard13007/ROSUS",
   "version": "2.0.0",
   "url": "https://github.com/Guard13007/ROSUS/releases/download/v2.0.0/rosus.zip",
+  "hash": "d454f6bc7f61111226a638aeb07f882598c0b4982843a0a042e0ad0a7c99728f",
   "bin": [
     "deubify.exe",
     "google.exe",
