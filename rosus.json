@@ -3,7 +3,7 @@
   "checkver": "github",
   "version": "2.1.0",
   "url": "https://github.com/Guard13007/ROSUS/releases/download/v2.1.0/rosus.zip",
-  "hash": "d454f6bc7f61111226a638aeb07f882598c0b4982843a0a042e0ad0a7c99728f",
+  "hash": "840702CF1B44C24BC7A0B1E4A6E03D6ABB60EC063E45F1AAFE4F83B4E8121A68",
   "bin": [
     "deubify.exe",
     "google.exe",
