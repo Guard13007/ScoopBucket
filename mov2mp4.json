@@ -1,0 +1,9 @@
+{
+  "homepage": "https://gist.github.com/Guard13007/f9f02caa4a9e2263ab5f4f6be142e951",
+  "version": "0.0.0",
+  "url": "https://gist.githubusercontent.com/Guard13007/f9f02caa4a9e2263ab5f4f6be142e951/raw/cbcab810653276421540e9dcf42ea302e72a8750/mov2mp4.ps1",
+  "bin": [
+    "mov2mp4.ps1"
+  ],
+  "license": "MIT"
+}
